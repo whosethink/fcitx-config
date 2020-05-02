@@ -25,7 +25,7 @@ switches:
     states: [ 半角, 全角 ]
     reset: 0
   - name: simplification
-    states: [ 漢字, 汉字 ]
+    states: [ 繁体, 简体 ]
     reset: 1
   - name: ascii_punct
     states: [ 中文标点, 英文标点 ]
