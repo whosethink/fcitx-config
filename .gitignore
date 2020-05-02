@@ -1,0 +1,14 @@
+rime/build/
+rime/luna_pinyin.userdb/
+rime/sync/
+rime/terra_pinyin.userdb/
+rime/trash/
+cached_layout
+clipboard/
+conf/
+config
+data/
+dbus/
+log/
+profile/
+symbols.yaml
